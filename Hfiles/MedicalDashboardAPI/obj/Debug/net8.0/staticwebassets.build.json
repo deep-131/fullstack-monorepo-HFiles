@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "3Tj7Z87KbkntEuJTydRqtv5K1x/IgfBv+kfVN3LC2pI=",
+  "Source": "MedicalDashboardAPI",
+  "BasePath": "_content/MedicalDashboardAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
